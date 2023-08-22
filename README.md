@@ -1,1 +1,1 @@
-# Background_color_change
+we creating a few colors the by clicking on the button and clicking the color change background color same as in wich we click on that color----we using the eventListner such as event.target.id to get the id of color then change in the css proverty by ,style.backgroundColor
